@@ -1,0 +1,3 @@
+[
+    "{{ PI_BASE_DIR }}/app/models/"
+]
